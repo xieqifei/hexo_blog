@@ -2,3 +2,5 @@
 Thumbs.db
 *.log
 .deploy*/
+public
+node_modules
