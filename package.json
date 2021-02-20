@@ -33,7 +33,7 @@
     "yuque-hexo": "^1.7.0"
   },
 "yuqueConfig": {
-    "postPath": "source/_posts/yueque",
+    "postPath": "source/_posts/yuque",
     "cachePath": "yuque.json",
     "mdNameFormat": "slug",
     "adapter": "hexo",
